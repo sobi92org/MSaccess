@@ -1,0 +1,3 @@
+formBug - ulepszyæ dane o 2 subformy, pierwszy pokazuje jakie aktualnie naprawy sa aktywne, 2 jakie juz naprawy zostaly zakonczone
+formBug - zastanowic sie czy dodac informacje gdy odp bedzie nie "Ta maszyna juz zostala wczesniej zastopowana z data"
+ReworkTime w minutach w tabeli bug all
